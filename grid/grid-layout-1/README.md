@@ -1,6 +1,6 @@
 # The Holy Grail Layout with Grid
 
-This is a Holy Grail Layout using Grid. 
+This is a Holy Grail Layout using Grid.  I have made it responsive by simply using dynamic units (fr) for my track sizes instead of fixed units (px).
 
 ## Desired Outcome
 
